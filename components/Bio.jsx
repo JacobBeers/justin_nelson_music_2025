@@ -17,7 +17,7 @@ export default function Bio() {
         </p>
 
         <p className={styles.descriptionBio}>
-        Born in Gaenesville, Florida, he began studying the saxophone at the age of 12 and ever since has had an intense passion for music. He received his A.A. from Florida State University, with an emphasis in jazz saxaphone performance and philosophy. During his time there he had the pleasure of learning from great musicians such as Chick Corea, Rufus Reid, Bill Peterson, Bill Kennedy, Leon Anderson Jr., Rodney Jordan, Scotty Barnhart, Doron Kima and Marcus Roberts.   
+        Born in Gainesville, Florida, he began studying the saxaphone at the age of 12 and ever since has had an intense passion for music. He received his A.A. from Florida State University, with an emphasis in jazz saxaphone performance and philosophy. During his time there he had the pleasure of learning from great musicians such as Chick Corea, Rufus Reid, Bill Peterson, Bill Kennedy, Leon Anderson Jr., Rodney Jordan, Scotty Barnhart, Doron Kima and Marcus Roberts.   
         </p>
 
         <p className={styles.descriptionBio}>

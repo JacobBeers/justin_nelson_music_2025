@@ -76,7 +76,7 @@ function Footer2() {
 			</div>
 			<div className="flex flex-col justify-center items-center text-center  p-5 bg-[#7b7d78]">
 				<h1 className=" text-white font-semibold">
-					© 2022-2023 All Rights Reserved | Justin Nelson Music
+					© 2025-2026 All Rights Reserved | Justin Nelson Music
 					{/* <span className="hover:text-blue-600 font-semibold cursor-pointer">
 						streamline{" "}
 					</span> */}
