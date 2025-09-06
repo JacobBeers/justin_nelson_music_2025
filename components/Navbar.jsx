@@ -46,7 +46,7 @@ const Navbar = () => {
                             <li className="ml-10  hover:text-[#f5daf2] text-xl">Events</li>
                         </Link>
                         <Link href="/gallery">
-                            <li className="mx-10  hover:text-[#f5daf2] text-xl">Gallery</li>
+                            <li className="ml-10  hover:text-[#f5daf2] text-xl">Gallery</li>
                         </Link>
                         <Link href="/bio">
                             <li className="mx-10  hover:text-[#f5daf2] text-xl">Bio</li>
