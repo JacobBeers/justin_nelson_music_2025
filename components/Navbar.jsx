@@ -48,6 +48,9 @@ const Navbar = () => {
                         <Link href="/gallery">
                             <li className="mx-10  hover:text-[#f5daf2] text-xl">Gallery</li>
                         </Link>
+                        <Link href="/bio">
+                            <li className="mx-10  hover:text-[#f5daf2] text-xl">Bio</li>
+                        </Link>
                     </ul>
                 </div>
                 <div onClick={handleNav} className="sm:hidden cursor-pointer pl-24">
@@ -105,6 +108,14 @@ const Navbar = () => {
                                     className= "py-4 cursor-pointer hover:border-b"
                                     >
                                         Gallery
+                                </li>
+                            </Link>
+                            <Link href="/bio">
+                                <li
+                                    onClick={() => setMenuOpen(false)}
+                                    className= "py-4 cursor-pointer hover:border-b"
+                                    >
+                                        Bio
                                 </li>
                             </Link>
                             
